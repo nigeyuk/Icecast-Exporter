@@ -1,0 +1,14 @@
+[Unit]
+Description=Icecast Prometheus Exporter Service
+After=network.target
+
+[Service]
+Type=simple
+User=your_username
+WorkingDirectory=/path/to/your/exporter
+ExecStart=/usr/bin/python3 /path/to/your/exporter/icecast-exporter.py
+EnvironmentFile=/path/to/your/exporter/.env # if you get an error about .env file missing, use the start-exporter.sh here and put the path to your .env file path into the .sh script
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

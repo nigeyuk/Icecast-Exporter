@@ -1,9 +1,5 @@
 # Icecast Prometheus Exporter
 
-![License](https://img.shields.io/github/license/yourusername/icecast-exporter)
-![Issues](https://img.shields.io/github/issues/yourusername/icecast-exporter)
-![Stars](https://img.shields.io/github/stars/yourusername/icecast-exporter)
-
 An exporter for Icecast server statistics, designed to expose metrics for Prometheus monitoring. This tool collects and exports server-wide and mountpoint-specific Icecast stats such as listeners, bytes read/sent, client connections, and more.
 
 ## Features

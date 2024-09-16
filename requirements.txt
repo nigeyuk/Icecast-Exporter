@@ -103,7 +103,7 @@ rich==13.7.1
 rrdtool==0.1.10
 SciPy==1.11.4
 service-identity==24.1.0
-setuptools==68.1.2
+setuptools==70.0.0
 simplejson==3.19.2
 six==1.16.0
 sos==4.5.6

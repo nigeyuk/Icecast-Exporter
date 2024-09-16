@@ -1,5 +1,3 @@
-# Creating the content for the README file in markdown format
-readme_content = """
 # Icecast Prometheus Exporter
 
 ![License](https://img.shields.io/github/license/yourusername/icecast-exporter)

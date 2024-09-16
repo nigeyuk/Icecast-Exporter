@@ -111,7 +111,7 @@ soupsieve==2.5
 ssh-import-id==5.11
 sympy==1.12
 systemd-python==235
-Twisted==24.3.0
+Twisted==24.7.0
 ubuntu-drivers-common==0.0.0
 ubuntu-pro-client==8001
 ufoLib2==0.16.0

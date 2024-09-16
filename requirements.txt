@@ -39,7 +39,7 @@ fs==2.4.16
 html5lib==1.1
 httplib2==0.20.4
 hyperlink==21.0.0
-idna==3.6
+idna==3.7
 incremental==22.10.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
